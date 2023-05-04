@@ -1,2 +1,2 @@
-# wild-java
-wild code school java tutorial
+# wild-spring
+wild code school spring tutorial
